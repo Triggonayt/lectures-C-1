@@ -1,0 +1,15 @@
+C:\Users\SAM\Desktop\Git edition\Csharp lectures\lectures1_HelloConsole\lectures1_02_HelloUser\bin\Debug\net6.0\lectures1_02_HelloUser.exe
+C:\Users\SAM\Desktop\Git edition\Csharp lectures\lectures1_HelloConsole\lectures1_02_HelloUser\bin\Debug\net6.0\lectures1_02_HelloUser.deps.json
+C:\Users\SAM\Desktop\Git edition\Csharp lectures\lectures1_HelloConsole\lectures1_02_HelloUser\bin\Debug\net6.0\lectures1_02_HelloUser.runtimeconfig.json
+C:\Users\SAM\Desktop\Git edition\Csharp lectures\lectures1_HelloConsole\lectures1_02_HelloUser\bin\Debug\net6.0\lectures1_02_HelloUser.dll
+C:\Users\SAM\Desktop\Git edition\Csharp lectures\lectures1_HelloConsole\lectures1_02_HelloUser\bin\Debug\net6.0\lectures1_02_HelloUser.pdb
+C:\Users\SAM\Desktop\Git edition\Csharp lectures\lectures1_HelloConsole\lectures1_02_HelloUser\obj\Debug\net6.0\lectures1_02_HelloUser.csproj.AssemblyReference.cache
+C:\Users\SAM\Desktop\Git edition\Csharp lectures\lectures1_HelloConsole\lectures1_02_HelloUser\obj\Debug\net6.0\lectures1_02_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAM\Desktop\Git edition\Csharp lectures\lectures1_HelloConsole\lectures1_02_HelloUser\obj\Debug\net6.0\lectures1_02_HelloUser.AssemblyInfoInputs.cache
+C:\Users\SAM\Desktop\Git edition\Csharp lectures\lectures1_HelloConsole\lectures1_02_HelloUser\obj\Debug\net6.0\lectures1_02_HelloUser.AssemblyInfo.cs
+C:\Users\SAM\Desktop\Git edition\Csharp lectures\lectures1_HelloConsole\lectures1_02_HelloUser\obj\Debug\net6.0\lectures1_02_HelloUser.csproj.CoreCompileInputs.cache
+C:\Users\SAM\Desktop\Git edition\Csharp lectures\lectures1_HelloConsole\lectures1_02_HelloUser\obj\Debug\net6.0\lectures1_02_HelloUser.dll
+C:\Users\SAM\Desktop\Git edition\Csharp lectures\lectures1_HelloConsole\lectures1_02_HelloUser\obj\Debug\net6.0\refint\lectures1_02_HelloUser.dll
+C:\Users\SAM\Desktop\Git edition\Csharp lectures\lectures1_HelloConsole\lectures1_02_HelloUser\obj\Debug\net6.0\lectures1_02_HelloUser.pdb
+C:\Users\SAM\Desktop\Git edition\Csharp lectures\lectures1_HelloConsole\lectures1_02_HelloUser\obj\Debug\net6.0\lectures1_02_HelloUser.genruntimeconfig.cache
+C:\Users\SAM\Desktop\Git edition\Csharp lectures\lectures1_HelloConsole\lectures1_02_HelloUser\obj\Debug\net6.0\ref\lectures1_02_HelloUser.dll
